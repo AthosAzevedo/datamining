@@ -37,8 +37,8 @@ python main.py
 │   ├── histogramas.png         # Histogramas
 │   └── scatter_pct_unique_beneficiarios.png
 ├── report/
-│   └── colocar o relatorio
-
+│   ├── grafico_data.pbix
+│   └── relatorio.pdf
 ├── scripts/
 │   ├── data_cleaning.py        # Limpeza dos dados
 │   ├── analysis_cluster.py     # Análise de cluster
